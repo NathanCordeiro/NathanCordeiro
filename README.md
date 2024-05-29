@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **nathanjohncordeiro@gmail.com**
 
-- ⚡ Fun fact **Coding is cool!**
+- ⚡ Fun fact **Coding is cool! You can turn your wildest ideas into reality!**
+
+- 💡 Did you know? **There are over 700 programming languages in the world! 🌐** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
