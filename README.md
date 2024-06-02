@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathancordeiro" alt="nathancordeiro" /></a> </p>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
+
 - 🔭 I'm currently working on **improving my skills!**
 
 - 🌱 I’m currently learning **React, Svelte & Go**
