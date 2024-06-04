@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancordeiro&layout=donut-vertical&theme=transparent" alt="nathancordeiro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&" alt="nathancordeiro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&theme=transparent" alt="nathancordeiro" /></p>
 
 
