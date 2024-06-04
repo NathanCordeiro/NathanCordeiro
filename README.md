@@ -23,6 +23,7 @@
 <a href="https://twitter.com/nathan_cord23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathan_cord23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathan cordeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan cordeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/_nathan_cordeiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nathan_cordeiro_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nathancordeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nathancordeiro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
