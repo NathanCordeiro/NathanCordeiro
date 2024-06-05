@@ -33,7 +33,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancordeiro&layout=donut-vertical&theme=transparent" alt="nathancordeiro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&theme=transparent" alt="nathancordeiro" /></p><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&theme=transparent" alt="nathancordeiro" /></p>
+
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120">
 
 
 
