@@ -9,8 +9,7 @@
  |       ||   |  ___    |   |      |       |  |  _    ||       |  |   |  |       ||       ||  _    |
  |   _   ||   | |_  |   |   |      | ||_|| |  | | |   ||   _   |  |   |  |   _   ||   _   || | |   |
  |__| |__||___|   |_|   |___|      |_|   |_|  |_|  |__||__| |__|  |___|  |__| |__||__| |__||_|  |__|
-                                                                                                                                                                                                          
- ```                   
+```                   
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nathancordeiro" /> </p>
@@ -49,7 +48,7 @@
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=nathancordeiro&theme=journey&dithering=true&hide=avatar)</br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancordeiro&layout=donut-vertical&theme=transparent" alt="nathancordeiro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathancordeiro&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nathancordeiro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&theme=transparent" alt="nathancordeiro" /></p>
 
