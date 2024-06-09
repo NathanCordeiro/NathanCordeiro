@@ -12,14 +12,17 @@
 ```                   
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nathancordeiro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nathancordeiro" /> </p>
 
-|<p align="center"> <img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="400"/> </p>|
-|:--|
+<h3 align="center" style="color:cyan">⭐CHECKOUT MY NEW PROJECTS ⭐ :  <a href="https://github.com/NathanCordeiro/Magic-Box-Cipher">Magic-Box-Cipher</a> and<a href="https://github.com/NathanCordeiro/SUDOKU-NINJA"> SUDOKU-NINJA</a></h3>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="400"/> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathancordeiro&theme=nord" alt="nathancordeiro" /></a> </p>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&align="center")
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&align=center)
+
 
 - 🔭 I'm currently working on **improving my skills!**
 
