@@ -1,12 +1,28 @@
 <h1 align="center">Hi, I'm Nathan</h1>
 
----
+```
+ __    __  __            ______  __                     __    __             __      __                           
+|  \  |  \|  \          |      \|  \                   |  \  |  \           |  \    |  \                          
+| $$  | $$ \$$           \$$$$$$| $$______ ____        | $$\ | $$  ______  _| $$_   | $$____    ______   _______  
+| $$__| $$|  \            | $$   \$|      \    \       | $$$\| $$ |      \|   $$ \  | $$    \  |      \ |       \ 
+| $$    $$| $$            | $$     | $$$$$$\$$$$\      | $$$$\ $$  \$$$$$$\\$$$$$$  | $$$$$$$\  \$$$$$$\| $$$$$$$\
+| $$$$$$$$| $$            | $$     | $$ | $$ | $$      | $$\$$ $$ /      $$ | $$ __ | $$  | $$ /      $$| $$  | $$
+| $$  | $$| $$ __        _| $$_    | $$ | $$ | $$      | $$ \$$$$|  $$$$$$$ | $$|  \| $$  | $$|  $$$$$$$| $$  | $$
+| $$  | $$| $$|  \      |   $$ \   | $$ | $$ | $$      | $$  \$$$ \$$    $$  \$$  $$| $$  | $$ \$$    $$| $$  | $$
+ \$$   \$$ \$$| $$       \$$$$$$    \$$  \$$  \$$       \$$   \$$  \$$$$$$$   \$$$$  \$$   \$$  \$$$$$$$ \$$   \$$
+               \$                                                                                                 
+                                                                                                                                                                                                            
+```                   
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nathancordeiro" /> </p>
+
+|<p align="center"> <img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="400"/> </p>|
+|:--|
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathancordeiro&theme=nord" alt="nathancordeiro" /></a> </p>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates&align="center")
 
 - 🔭 I'm currently working on **improving my skills!**
 
@@ -39,7 +55,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&theme=transparent" alt="nathancordeiro" /></p>
 
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120">
-
+|<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120">|
+|:--|
 
 
