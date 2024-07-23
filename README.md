@@ -15,7 +15,7 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nathancordeiro" /> </p>
 
-<h3 align="center" style="color:cyan">⭐CHECKOUT MY NEW PROJECTS ⭐ :  <a href="https://github.com/NathanCordeiro/Magic-Box-Cipher">Magic-Box-Cipher</a> ,<a href="https://github.com/NathanCordeiro/SUDOKU-NINJA"> SUDOKU-NINJA</a> and <a href="https://github.com/NathanCordeiro/2048">2048</a></h3>
+<h3 align="center" style="color:cyan">⭐CHECKOUT MY NEW PROJECTS ⭐ :  <a href="https://github.com/NathanCordeiro/Magic-Box-Cipher">Magic-Box-Cipher</a> ,<a href="https://github.com/NathanCordeiro/SUDOKU-NINJA"> SUDOKU-NINJA</a> and <a href="https://github.com/NathanCordeiro/Sorting-Visualizer">Sorting-Visualizer</a></h3>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/pspiagicw/pspiagicw/master/gif3.gif" width="400"/> </p>
 
