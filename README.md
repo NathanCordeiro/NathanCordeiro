@@ -13,7 +13,7 @@
 ```                   
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=0e75b6&style=flat" alt="nathancordeiro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nathancordeiro&label=Profile%20views&color=c8a4d4&style=for-the-badge" alt="nathancordeiro" /> </p>
 
 <h3 align="center" style="color:cyan">⭐CHECKOUT MY NEW PROJECTS ⭐ :  
  <a href="https://github.com/NathanCordeiro/JusticeShell">JusticeShell</a> ,<a href="https://github.com/NathanCordeiro/Pong-Game">Pong-Game</a> and <a href="https://github.com/NathanCordeiro/Automatic-Garbage-Collector">Automatic-Garbage-collector</a></h3>
