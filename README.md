@@ -53,11 +53,17 @@
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=nathancordeiro&theme=journey&dithering=true&hide=avatar)</br>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathancordeiro&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nathancordeiro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathancordeiro&theme=transparent" alt="nathancordeiro" /></p>
 
-|<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="160"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120">|
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanCordeiro/NathanCordeiro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathanCordeiro/NathanCordeiro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
+|<img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="160"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="120"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="120"><img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="120">|
 |:--|
-
-
