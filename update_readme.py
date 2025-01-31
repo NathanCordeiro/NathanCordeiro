@@ -5,7 +5,7 @@ import re
 
 github_token = os.getenv("GH_TOKEN")
 wakatime_api_key = os.getenv("WAKATIME_API_KEY")
-github_username = "YOUR_GITHUB_USERNAME"  # Replace with your GitHub username
+github_username = "NathanCordeiro"  
 
 GITHUB_HEADERS = {
     "Authorization": f"token {github_token}",
