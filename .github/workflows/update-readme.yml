@@ -8,14 +8,25 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Fetch and update stats
-        run: |
-          python update_readme.py
-          
+        run: python update_readme.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -23,5 +34,3 @@ jobs:
           git add README.md
           git commit -m "Updated GitHub and WakaTime stats in README" || exit 0
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
