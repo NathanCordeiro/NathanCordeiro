@@ -91,9 +91,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NathanCordeiro/NathanCordeiro/output/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NathanCordeiro/NathanCordeiro/output/breakout-light.svg" />
+  <img alt="github-breakout" src="https://raw.githubusercontent.com/NathanCordeiro/NathanCordeiro/output/breakout-light.svg" />
+</picture>
 
 ---
-## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
