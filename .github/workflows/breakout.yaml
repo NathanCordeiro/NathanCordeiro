@@ -1,0 +1,63 @@
+name: GitHub Breakout Game
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual execution
+  workflow_dispatch:
+
+  # Run on pushes to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate Light Theme Breakout
+      - name: Generate Light Breakout
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Output file
+          output_path: dist/breakout-light.svg
+
+          # Light theme colors
+          enable_ghost_bricks: false
+          ball_color: "#24292f"
+          bricks_colors: "#0969da,#1a7f37,#bf8700,#cf222e"
+
+      # Step 3: Generate Dark Theme Breakout
+      - name: Generate Dark Breakout
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Output file
+          output_path: dist/breakout-dark.svg
+
+          # Dark theme colors
+          enable_ghost_bricks: false
+          ball_color: "#f0f6fc"
+          bricks_colors: "#58a6ff,#3fb950,#d29922,#f85149"
+
+      # Step 4: Deploy generated files to output branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update breakout game [skip ci]"
